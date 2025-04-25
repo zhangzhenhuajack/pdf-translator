@@ -1,0 +1,14 @@
+/aa-cn.md
+/aa-cn.pdf
+/aa-cn-fixed.md
+/aa-cn-fixed.pdf
+/chat_history.md
+/chat_history_part1.md
+/chat_history_part2.md
+/chat_history_part3.md
+/chat_history_part4.md
+/nova-lite-test.md
+.idea
+./.venv
+temp
+.DS_Store

@@ -1,0 +1,11 @@
+aws:
+  region: us-east-1
+  profile: default
+
+bedrock:
+  model_id: amazon.nova-pro-v1:0
+
+pdf:
+  output_font: "Songti SC"
+  output_format: "pdf"
+  temp_dir: "temp"
